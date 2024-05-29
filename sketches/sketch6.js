@@ -6,7 +6,7 @@ function setup() {
 function draw() {
 }
 
-function mousePressed() {
+function mousePressed() { // same logic as sketch5 except it is for circle outlines - each circle's radius keeps increasing by 50 units
   for (let i = 0; i < 5; i++) {
     stroke(random(255), random(255), random(255)); 
     noFill();
