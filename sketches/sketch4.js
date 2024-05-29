@@ -1,3 +1,5 @@
+// SANE LOGIC AS SKETCH2 EXCEPT FOR MOUSEPRESSED/MOUSERELEASED
+
 let mouseHeld = false;
 
 function setup() {
