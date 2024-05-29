@@ -14,3 +14,12 @@ sketch3:
 Pressing the A key draws a purple triangle
 Pressing the B key draws an orange triangle
 Pressing the mouse will draw an equilateral triangle at the mouse position
+
+sketch4:
+Pressing the mouse will result in a red line going from the top left to bottm right corner, releasing it will change it to a blue line going from the top right to bottom left corner
+
+sketch5:
+Clicking the mouse results in 10 different squares horizontally situated from one another starting from the mouse.
+
+sketch6:
+Pressing the mouse will result in a series of concenttric circles that having increasing radi (different coloured circles).
