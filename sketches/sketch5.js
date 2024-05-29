@@ -7,7 +7,7 @@ function draw() {
 }
 
 function mousePressed() {
-  for (let i = 0; i < 9; i++) {
+  for (let i = 0; i < 10; i++) {
     fill(random(255), random(255), random(255));
     rect(mouseX + i * 30, mouseY, 20, 20);
   }
