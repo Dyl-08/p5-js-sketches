@@ -10,6 +10,7 @@ function draw() {
 
 function keyPressed() {
   if (!keyHeld) {
+    background(32);
     fill(255, 255, 0); 
     ellipse(width / 2, height / 2, 150, 100); 
   }
